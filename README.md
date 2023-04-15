@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rúben
 
 
-- 🤝 I'm studying at Cape Verde University (UNICV)
+- 🤝 I'm studying at UNICV (Cape Verde University)
 - 🌱 I’m currently learning HTML5 and CSS3
 
 
