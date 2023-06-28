@@ -2,7 +2,7 @@
 
 
 - 🤝 I'm studying at UNICV (Cape Verde University)
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I’m currently learning Java
 
 
 <div> <a href="https://github.com/rubencidario">
